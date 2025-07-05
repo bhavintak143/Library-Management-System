@@ -1,5 +1,4 @@
 📚 Library Management System
-Repository Link ➡️
 
 📄 Project Description
 The Library Management System is a Java-based console application designed to efficiently manage library operations. It allows users to sign in, issue books, return books, and view lists of available and issued books. The system simplifies library management, making it easier for users to access and manage resources seamlessly.
